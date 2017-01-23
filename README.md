@@ -2,7 +2,7 @@
 
 Google Sheets display driver for PRMan
 
-When rendered, the included **test.rib** file should generate a result similar to [this](https://docs.google.com/spreadsheets/d/1FA1GADPNNjoPwtmtB5LgU7PvJPA6BhY2k_T1vgudpIs).
+When rendered, the [included **test.rib**](test.rib) file should generate a result similar to [this](https://docs.google.com/spreadsheets/d/1FA1GADPNNjoPwtmtB5LgU7PvJPA6BhY2k_T1vgudpIs).
 
 ## Motivation & Caveats
 
